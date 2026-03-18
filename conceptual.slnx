@@ -1,3 +1,7 @@
 <Solution>
   <Project Path="conceptual.api/conceptual.api.csproj" />
+  <Project Path="conceptual.Application/conceptual.Application.csproj" />
+  <Project Path="conceptual.Domain/conceptual.Domain.csproj" />
+  <Project Path="conceptual.Infrastructure/conceptual.Infrastructure.csproj" />
+  <Project Path="conceptual.Test/conceptual.Test.csproj" />
 </Solution>
