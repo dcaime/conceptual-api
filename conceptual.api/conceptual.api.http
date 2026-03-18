@@ -1,4 +1,4 @@
-@conceptual.api_HostAddress = http://localhost:5111
+@conceptual.api_HostAddress = http://localhost:5055
 
 GET {{conceptual.api_HostAddress}}/weatherforecast/
 Accept: application/json
